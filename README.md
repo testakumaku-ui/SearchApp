@@ -4,7 +4,7 @@
 
  
   <p align="center">
-   <img width="1257" height="562" src=https://github.com/testakumaku-ui/SearchApp/blob/14fa6072bf5d0084f06a8e91e96e86db0a2f98cf/BookSearch.png>
+   <img width="1200" height="800" src=https://github.com/testakumaku-ui/SearchApp/blob/14fa6072bf5d0084f06a8e91e96e86db0a2f98cf/BookSearch.png>
 
 
 
