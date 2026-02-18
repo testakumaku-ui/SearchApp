@@ -2,11 +2,8 @@
 
 Простое Android-приложение для поиска книг, написанное на Kotlin + Jetpack Compose.
 
- 
-  <p align="center">
-   <img width="1200" height="800" src=https://github.com/testakumaku-ui/SearchApp/blob/14fa6072bf5d0084f06a8e91e96e86db0a2f98cf/BookSearch.png>
 
-
+   ![image alt](https://github.com/testakumaku-ui/SearchApp/blob/b41a6e91ed0e6be7df25f30b29af387257125aa6/BookSearch.png)
 
 🔎 Поиск книг по названию и автору
 
